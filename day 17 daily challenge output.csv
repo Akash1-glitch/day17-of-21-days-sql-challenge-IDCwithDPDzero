@@ -1,0 +1,5 @@
+service,total_admitted,diff_from_avg,performance_rank
+general_medicine,2332,869.2500,"Above Average"
+surgery,1686,223.2500,"Above Average"
+emergency,1185,-277.7500,"Below Average"
+ICU,648,-814.7500,"Below Average"
